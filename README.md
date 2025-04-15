@@ -41,3 +41,7 @@ I'm expanding my skill set beyond frontend development, focusing on **backend te
 ---
 
 > _"I build clean, fast, and scalable web products that solve real problems."_ 🚀
+
+
+![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgeasmoreno&show_icons=true&theme=radical)
+
