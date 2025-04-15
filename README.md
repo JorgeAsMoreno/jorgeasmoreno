@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Jorge Solis
+# 👋 Hey there! I'm Jorge 
 
 I'm a Frontend Engineer with 5+ years of experience building high-performance, user-friendly web applications using modern tools like **React**, **Next.js**, **TypeScript**, and **Express.js**.
 
